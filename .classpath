@@ -35,6 +35,11 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Yoonkwan/Documents/jdbclib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yoonkwan/Documents/jdbclib/oraclepki.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yoonkwan/Documents/jdbclib/osdt_cert.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yoonkwan/Documents/jdbclib/osdt_core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yoonkwan/Documents/jdbclib/ucp.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Yoonkwan/Documents/sts-bundle/sts-3.9.13.RELEASE/lombok.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

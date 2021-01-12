@@ -31,7 +31,22 @@
 	<logger name="org.springframework.web">
 		<level value="info" />
 	</logger>
-
+	
+	<!-- jdbc.audit 카테고리를 warn 레벨로 변경 -->
+	<logger name="jdbc.audit">
+		<level value="warn"/>
+	</logger>
+	
+	<!-- jdbc.resultset 카테고리를 warn 레벨로 변경 -->
+	<logger name="jdbc.resultset">
+		<level value="warn"/>
+	</logger>
+	
+	<!-- jdbc.connection 카테고리를 warn 레벨로 변경 -->	
+	<logger name="jdbc.connection">
+		<level value="warn"/>
+	</logger>
+	
 	<!-- Root Logger -->
 	<root>
 		<priority value="info" />
